@@ -8,3 +8,9 @@ A secure and lightweight **password manager** built using Python. It encrypts an
 ✅ User-friendly command-line interface (CLI)  
 ✅ Secure retrieval of saved passwords  
 ✅ Cross-platform support (Windows, macOS, Linux) 
+
+## 🚀 Quick Start  
+Run the script directly with:  
+```bash
+$ cd Desktop
+python password_manager.py
