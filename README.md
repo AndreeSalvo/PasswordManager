@@ -7,10 +7,4 @@ A secure and lightweight **password manager** built using Python. It encrypts an
 ✅ Random password generator for strong security  
 ✅ User-friendly command-line interface (CLI)  
 ✅ Secure retrieval of saved passwords  
-✅ Cross-platform support (Windows, macOS, Linux)  
-
-## 🛠️ Installation  
-
-### **1. Clone the repository**  
-```bash
-https://github.com/AndreeSalvo/PasswordManager.git
+✅ Cross-platform support (Windows, macOS, Linux) 
