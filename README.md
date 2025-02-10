@@ -10,7 +10,7 @@ A secure and lightweight **password manager** built using Python. It encrypts an
 ✅ Cross-platform support (Windows, macOS, Linux) 
 
 ## 🚀 Quick Start  
-Run the script directly with:  
+Run the script directly with bash:  
 ```bash
 
 $ cd Desktop
