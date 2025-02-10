@@ -11,7 +11,7 @@ A secure and lightweight **password manager** built using Python. It encrypts an
 
 ## 🚀 Quick Start  
 Run the script directly with:  
-bash
+```bash
 
 $ cd Desktop
 python password_manager.py
