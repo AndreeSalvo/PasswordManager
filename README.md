@@ -13,4 +13,4 @@ A secure and lightweight **password manager** built using Python. It encrypts an
 
 ### **1. Clone the repository**  
 ```bash
-
+https://github.com/AndreeSalvo/PasswordManager.git
