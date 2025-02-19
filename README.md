@@ -15,3 +15,7 @@ Run the script directly with bash:
 
 $ cd Desktop
 python password_manager.py
+
+# Author
+Andree Salvo |
+Cybersecurity Student at SNHU
